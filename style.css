@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background-color: #A5A9A0;
+    background-color: #5e697c;
     /* Move down content because of fixed navbar at top */
     margin-bottom: 60px;
     margin-top: 8px;
@@ -23,11 +23,11 @@ body {
 }
 
 .navbar-inverse .navbar-brand {
-    color: #5E697C;
+    color: #408900;
 }
 
 .navbar-inverse {
-    background-color: #90A77B;
+    background-color: #072c65;
     color: #408900;
 }
 
@@ -91,12 +91,12 @@ h2 {
 
 .thumbnail {
     margin-top: 9px;
-    box-shadow: #121212 2px 3px 3px;
+    box-shadow: #2c4770 2px 3px 3px;
 }
 
 .footer {
     background-color: #01255d;
-    color: #777a7d;
+    color: #01255d;
     height: 30px;
     padding: 13px;
     position: fixed;
